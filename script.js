@@ -8,6 +8,8 @@ function writePassword() {
 
   passwordText.value = password;
 
+
+
 }
 
 // Add event listener to generate button
@@ -43,7 +45,7 @@ console.log (confirmNum);
 console.log (confirmLower);
 console.log (confirmUpper);
 
-//Creating and Array
+
 var lower = ["a b c d e f g h i j k l m n o p q r s t u v w x y z"];
 document.getElementById("password").innerHTML = lower; 
 console.log (upper)
@@ -60,7 +62,9 @@ var num = ["0 1 2 3 4 5 6 7 8 9"];
 document.getElementById("password").innerHTML = num; 
 console.log (num)
 
-
+var children = lower.contact (upper, special, num);
+document.getElementById("password").innerHTML = children; 
+console.log (children)
 
 //use the Math.random function to randomly select a number between 
 
