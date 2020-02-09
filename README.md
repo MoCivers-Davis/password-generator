@@ -1,7 +1,7 @@
 
 # MoCivers-Davis Homework 3
 ![Password Generator](Password-GeneratorHW.png)
-Format: ![This is a screenshot of this project]
+![This is a screenshot of this project]
 
 ## Description
 The motivation for creating this project is two-fold.  As employee with access to sensitive data
