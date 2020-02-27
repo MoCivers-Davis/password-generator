@@ -16,6 +16,5 @@ Prior to this project I had absolutely no experience in any of these areas. I ca
 
 Moving forward, I've identified a couple areas of study that I should spend a bit more time understanding.  Particularly, I need to better understand how to call data that is stored in arrays.  
 
-## Contact
-Mo Civers-Davis
-mocivers@comcast.net
+## My Project Link
+https://mocivers-davis.github.io/Homework3/ 
